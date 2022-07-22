@@ -1,0 +1,13 @@
+Feature/Mandatory/Contact-Conversation-Message-Profile
+Feature/Optional/EnableDisableAutocorrect
+Contact/Mandatory/AddContact-RemoveContact-ShowContactList-ContactName-ContactPicture
+Conversation/Mandatory/CreateIndividualConversation-CreateGroupConversation-DeleteConversation-DisplayConversation-SendMessage-DeleteMessage-ReceiveMessage-Notification-StyleCustomization
+Conversation/Optional/ModifyName-OralReply-TypingIndicator
+Notification/Mandatory/EnableDisable
+Notification/Optional/Customization/MuteDuration
+Message/Mandatory/Type-SendTime-DeliveryStatus-ReadStatus
+Message/Optional/Previsualization
+Type/Mandatory/Text
+Type/Optional/PhotoVideo-ReadableFile-UnreadableFile-Audio
+Text/Optional/AudioReading
+Profile/Mandatory/Picture-Name-ListConversation

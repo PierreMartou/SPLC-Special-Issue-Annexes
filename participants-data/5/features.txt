@@ -1,0 +1,16 @@
+Feature/Optional/Theme-Notification-Receive-RestrictedDownload
+Feature/Mandatory/Chat-ContactList-Layout-Send-Message-Account-Encryption-Authentication
+Theme/Alternative/Dark-Light
+Notification/Optional/Display
+Notification/Mandatory/Volume
+Volume/Alternative/On-Off
+Chat/Mandatory/ReadChat-ListingMembers
+Layout/Alternative/SimpleLayout-ComplexLayout
+Send/Alternative/StoreMessage-SendMessage
+Message/Mandatory/MessagesTypes
+MessagesTypes/Mandatory/Text
+MessagesTypes/Optional/Rich
+Text/Optional/Predefined
+Rich/Or/Picture-Position-Vocal-Gif-File
+Account/Mandatory/ProfilePicture
+ContactList/Mandatory/SearchMembers-Nickname-AddMember-DeleteMember

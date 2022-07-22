@@ -1,0 +1,9 @@
+Context/Optional/Driving-Positioning-DataSaver
+Context/Mandatory/Device-Battery-Connectivity-DeviceTheme-Notification
+Device/Alternative/Smartphone-Desktop
+Battery/Alternative/Low-High
+Connectivity/Or/Internet-Bluetooth
+DeviceTheme/Alternative/LightMode-DarkMode
+Notification/Alternative/Sound-Mute-DoNotDisturb
+Internet/Alternative/NoConnection-Connection
+Connection/Or/Wifi-Cellular

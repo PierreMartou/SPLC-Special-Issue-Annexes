@@ -1,0 +1,9 @@
+Meeting-ACTIVATES-Mute
+Free-ACTIVATES-Normal-Text-Images-Videos-VoiceNotes
+Driving-ACTIVATES-VoiceNotes
+Day-ACTIVATES-LightMode
+Night-ACTIVATES-DarkMode
+Group-ACTIVATES-Mute
+Personal-ACTIVATES-Normal
+MobileData-ACTIVATES-Text-VoiceNotes
+WiFi-ACTIVATES-Text-Images-Videos-VoiceNotes

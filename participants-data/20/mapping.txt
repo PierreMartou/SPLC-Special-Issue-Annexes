@@ -1,0 +1,9 @@
+Desktop-ACTIVATES-ModifyName
+Phone-ACTIVATES-Customization-TypingIndicator
+Driving-ACTIVATES-OralReply-AudioReading
+High-ACTIVATES-PhotoVideo-ReadableFile-Audio
+High-Desktop-ACTIVATES-UnreadableFile
+High-WiFi-ACTIVATES-Previsualization
+Meeting-ACTIVATES-MuteDuration
+DoNotDisturb-ACTIVATES-MuteDuration
+AutoCorrect-ACTIVATES-EnableDisableAutocorrect

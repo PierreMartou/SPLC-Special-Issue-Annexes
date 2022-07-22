@@ -1,0 +1,6 @@
+Context/Mandatory/ContactFamiliarity-BlockedStatus-UserDevice-UserConnectivity
+ContactFamiliarity/Alternative/Stranger-Acquaintance-FriendFamily
+BlockedStatus/Optional/NotBlocked
+UserDevice/Optional/HasFrontCamera-HasMicro
+UserConnectivity/Alternative/HaveConnection-DontHaveConnection
+HaveConnection/Alternative/ActivelyOnApp-AwayForTenMinute-InMeeting

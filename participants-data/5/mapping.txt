@@ -1,0 +1,17 @@
+NoConnection-ACTIVATES-StoreMessage
+Wifi-ACTIVATES-SendMessage-Receive
+Cellular-ACTIVATES-SendMessage-Receive
+Wifi-High-ACTIVATES-Picture-File
+Cellular-High-ACTIVATES-Picture-File
+Smartphone-ACTIVATES-SimpleLayout
+Desktop-ACTIVATES-ComplexLayout
+Wifi-Positioning-ACTIVATES-Position
+Cellular-Positioning-ACTIVATES-Position
+DoNotDisturb-ACTIVATES-Off
+Sound-ACTIVATES-On-Display
+Mute-ACTIVATES-On-Display
+DarkMode-ACTIVATES-Dark
+LightMode-ACTIVATES-Light
+Cellular-Bluetooth-Positioning-ACTIVATES-Predefined
+DataSaver-ACTIVATES-RestrictedDownload
+Low-ACTIVATES-RestrictedDownload

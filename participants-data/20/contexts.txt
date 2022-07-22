@@ -1,0 +1,7 @@
+Context/Optional/Situation-DeviceSettings
+Situation/Alternative/Driving-Meeting
+Context/Mandatory/Device-InternetConnection-Battery
+Battery/Optional/High
+Device/Alternative/Phone-Desktop
+DeviceSettings/Optional/AutoCorrect-DoNotDisturb
+InternetConnection/Optional/WiFi

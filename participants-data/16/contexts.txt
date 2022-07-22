@@ -1,0 +1,5 @@
+Context/Mandatory/TimeOfDay-NetworkType-ConversationType-Status
+Status/Alternative/Meeting-Driving-Free
+TimeOfDay/Alternative/Day-Night
+NetworkType/Or/MobileData-WiFi
+ConversationType/Alternative/Personal-Group

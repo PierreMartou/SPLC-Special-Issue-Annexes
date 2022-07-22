@@ -1,0 +1,13 @@
+Feature/Mandatory/Chat-UserAccount
+Feature/Optional/VoiceCall
+Chat/Mandatory/Type
+Chat/Optional/SendMessages-ReceiveMessages-Reaction
+Type/Mandatory/Text
+Type/Optional/Media-Voice
+Text/Optional/Emoji
+UserAccount/Mandatory/Contacts-Groups-Status
+UserAccount/Optional/Stories
+Contacts/Mandatory/Add-Remove
+Groups/Mandatory/Create-Quit-ListAdmin
+Status/Alternative/Online-Offline-Away-DoNotDisturb
+VoiceCall/Optional/VideoCall
